@@ -12,96 +12,102 @@ https://github.com/isaruiz619-bit/portfolio-site
 
 ## Professional Direction
 
-I am pursuing a career in UX/UI Design — a field focused on creating digital experiences that are intuitive, beautiful, and human-centered. My goal is to join a product team where I can help shape interfaces that are accessible, inclusive, and genuinely delightful to use.
+I am pursuing a career in UX/UI Design. My goal is to design digital products for startups and small businesses — teams with big ideas that need someone to make them feel real, accessible, and beautiful.
 
-UX/UI Designers work at the intersection of research, psychology, and visual design. They conduct user research, build wireframes and prototypes, develop design systems, and collaborate with developers to bring ideas to life. Tools like Figma, Framer, and Webflow are industry standards in this field.
+I came into this course with little to no coding experience. Through this project I learned to use VS Code, Git, GitHub, and the terminal for the first time. Every tool I used, every decision I made, and every revision I pushed was intentional.
 
 ---
 
 ## Target Audience
 
 This portfolio is directed at:
-- Product teams at startups and tech companies
-- Creative agencies looking for junior designers
-- Recruiters and hiring managers in the design industry
-- Professors and mentors evaluating my professional direction
+- Startups and small businesses looking for a thoughtful junior designer
+- Product teams that value research-first design
+- Recruiters and hiring managers in the UX/UI design industry
+- Professors and mentors evaluating my professional growth and direction
 
 ---
 
-## Design Style & Visual Direction
+## Visual & Style Direction
 
 The portfolio uses a bold editorial style with:
 - **Bebas Neue** — a tall, narrow display font that gives the site a strong, confident identity
 - **Poppins** — a clean sans-serif for body text and readability
-- A warm, colorful palette — coral, orange, and gold on white backgrounds
-- A scrolling marquee, floating stat cards, and a dark about section for visual contrast
-- No black backgrounds on the main sections — keeping it light, open, and inviting
+- A warm colorful palette — coral, orange, and gold on a white background
+- A scrolling marquee banner, colorful hero cards, and a dark about section for contrast
+- No fake project counts or tools I don't actually know — everything on this site is honest
 
-The design reflects the kind of work I want to do: visually bold, carefully considered, and built with intention.
+The design reflects the kind of work I want to do: visually bold, carefully considered, and built with real intention.
 
 ---
 
-## Portfolio Content
+## Skills & Tools
 
-**Featured Project: Pickleball Museum — Courts of Time**
-A full website design for a digital museum dedicated to the history and culture of pickleball. This project demonstrates my ability to research an audience, design a coherent visual system, and build a responsive, multi-page experience.
+- **Figma** — my strongest tool, used for UI design and prototyping
+- **UX Research** — user interviews, usability thinking, research-first approach
+- **Prototyping** — interactive Figma flows and user testing concepts
+- **HTML / CSS** — currently learning, used to build this portfolio
+- **AI Tools** — Claude AI used intentionally throughout research, planning, and building
+
+I do not claim to know tools I have not used. Framer and Webflow are not listed because I have not worked with them yet.
+
+---
+
+## Featured Project
+
+**Pickleball Museum — Courts of Time**
+A full website for a digital museum dedicated to the history and culture of pickleball. This project demonstrates my ability to research an audience, design a coherent visual system, and build a multi-page experience.
 
 Live site: https://pickleball-museum.lovable.app
-
-**Skills showcased:**
-- UI Design (Figma)
-- UX Research
-- Prototyping
-- HTML / CSS
-- Framer & Webflow
 
 ---
 
 ## AI Orchestration Process
 
-AI was used intentionally throughout every stage of this portfolio — not as a shortcut, but as a tool under my direction.
+AI was used intentionally at every stage — not as a shortcut, but as a tool under my direction.
 
 ### Research
-Used Claude AI to research the UX/UI design field — understanding what real designers do, what tools they use, what a credible beginning portfolio looks like, and how to present myself authentically as a student entering the field.
+Used Claude AI to research the UX/UI design field — understanding what designers actually do, what tools matter, what a credible student portfolio looks like, and how to present myself authentically as someone entering the field.
 
 ### Planning
-Used AI to plan the portfolio structure — deciding what sections to include (hero, services, project, about, process, contact), what content belonged in each, and how to present an aspirational but believable professional identity.
+Used AI to plan the portfolio structure — deciding what sections to include, what content belonged in each, and how to present an aspirational but honest professional identity. Made deliberate choices about what NOT to include — no fake project counts, no tools I haven't used.
 
 ### Design Decisions
-Made deliberate decisions about typography, color palette, layout, and tone. Directed the AI toward a bold editorial aesthetic with Bebas Neue headings and a warm coral/orange/gold color scheme. Rejected multiple earlier versions (lavender/purple palette, teal/magenta palette) before landing on the right direction.
+Made real design decisions through multiple iterations. Started with a lavender/purple palette, then tried teal and magenta, then landed on coral/orange/gold. Changed fonts multiple times before choosing Bebas Neue for headings. Removed outline text effects. Simplified the skills section to only reflect real abilities. Every change was a deliberate judgment call — not just accepting the first AI output.
 
 ### Building
-Used Claude AI to write and refine the HTML/CSS code for the portfolio. Iterated through multiple design versions, making specific requests for changes — font swaps, color updates, removing inline styles, adjusting layout — and evaluated each result before moving forward.
+Used Claude AI to write and refine the HTML and CSS. Learned how to structure a page, use CSS variables, write clean stylesheets without inline styles, and deploy through GitHub Pages — all skills I had zero experience with before this course.
 
 ### Reviewing & Improving
-Reviewed the portfolio multiple times and directed AI to make specific improvements:
-- Changed from Playfair Display to Poppins to Bebas Neue based on aesthetic preference
-- Removed all inline styles and moved everything to the stylesheet
-- Adjusted color palette through multiple iterations
-- Reduced the project section to one real project rather than fictional placeholders
-- Updated with real contact information and live project links
+Walked through the portfolio multiple times and directed specific improvements each time:
+- Removed Framer and Webflow since I have never used them
+- Replaced percentage-based skill bars with honest labels like "Strong," "Developing," and "Learning"
+- Removed fake project counts
+- Replaced outline/stroke text with solid colored text
+- Added a real personal statement and target audience
+- Replaced generic service descriptions with ones that reflect my actual focus
 
 ### Deployment
-Learned to use VS Code, Git, and GitHub to manage version control and deploy the site through GitHub Pages — skills that are directly relevant to working in a professional design and development environment.
+Learned to use VS Code, the terminal, Git, and GitHub to manage version control and deploy via GitHub Pages. Resolved merge conflicts, used force push, and managed two separate repositories — the museum and the portfolio.
 
 ---
 
 ## How the Site Was Planned, Built, Reviewed, and Improved
 
-**Planning:** Researched the UX/UI design field to understand what a credible portfolio looks like. Studied real designer portfolios for inspiration. Decided on professional direction, target audience, tone, and visual style before writing a single line of code.
+**Planning:** Researched the UX/UI field to understand what a real portfolio should communicate. Decided on professional direction, target audience, tone, and visual style before writing any code. Made a conscious choice to keep the portfolio honest — one real project, real skills, real story.
 
-**Building:** Used Claude AI to generate and refine the HTML/CSS. Made iterative design decisions — choosing fonts, colors, layout structure, and content — through an active back-and-forth process rather than accepting the first output.
+**Building:** Used Claude AI to generate and refine HTML/CSS iteratively. Did not accept the first version — went through multiple rounds of changes based on my own aesthetic judgment and the requirements of the assignment.
 
-**Reviewing:** Walked through the full site experience multiple times, identifying what felt off — colors that didn't work, fonts that weren't right, sections that felt generic. Used those observations to direct specific improvements.
+**Reviewing:** Reviewed the site against the assignment rubric multiple times. Identified content that felt dishonest or inflated and removed it. Identified missing requirements (target audience, personal statement, evidence of intentional decision-making) and added them.
 
-**Improving:** Made multiple rounds of revisions including complete palette changes, font changes, content updates, structural adjustments, and code cleanup. The final site is the result of deliberate iteration, not a single AI generation.
+**Improving:** Made several full design overhauls — color palette, typography, layout structure, and content — based on what felt right and what the assignment required. The final site is the result of real iteration and real judgment, not a single prompt.
 
 ---
 
 ## Tools Used
-- Claude AI — research, planning, content, and code generation
+- Claude AI — research, planning, content strategy, code generation, and iteration
+- Figma — design planning and visual direction
 - VS Code — development environment
-- GitHub — version control
+- Git & GitHub — version control and collaboration
 - GitHub Pages — live site hosting
-- Figma — design planning and inspiration
 - Lovable — museum project development
